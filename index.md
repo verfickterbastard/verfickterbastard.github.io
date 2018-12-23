@@ -41,6 +41,8 @@ My university email address is anssi.vilpponen@helsinki.fi.
 
 ## My Resume
 
+[My Brief Occupational and Educational History](https://www.overleaf.com/project/5c1e1e3affd3367a0d6531bd)
+
 ## Misc. 
 
 [Dank memes](https://www.reddit.com/)
