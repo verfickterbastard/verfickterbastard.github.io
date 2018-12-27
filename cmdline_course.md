@@ -23,9 +23,11 @@ This week's quiz went by far and overall worse than any other assignment on the 
 
 ## Week 4
 
+This week was about developing shell scripts. I further learnt how important a role the ending of a file's name plays its application. Having said this I must admit that, despite the points showing otherwise, this was the most difficult task on the entire course. I cannot with confidence say I learnt to actually do scripts, but I'm sure it's a matter of practice. Also, learning to edit and take advantage of reconfiguration of the .bashrc file was something I found very appealing even though I got the configurations running only after placing at the end of the file.
 
 ## Week 5
 
+Installation of programs on bash is what the week's materials were about. Whilst the installation of e.g. Python was already familiar to me via the introductory course, I found the Makefile to be a rather big piece to swallow. The "make" command and its variations were taught. The said command is to re-compile groups of programs.
 
 ## Week 6
 
