@@ -31,6 +31,7 @@ Installation of programs on bash is what the week's materials were about. Whilst
 
 ## Week 6
 
+## Week 7
 
 ## Difficulty (from 1 to 10) of each week's assignments
 
