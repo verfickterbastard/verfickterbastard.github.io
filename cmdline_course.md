@@ -35,7 +35,7 @@ The content of week 6 revolved around version control as its title indicates. It
 
 ## Week 7
 
-I had my doubts about my capabilities on this week's assignments. Our having been introduced to GitHub led to the final assignment, a part of which this section obviously is, too; namely, creating a webpage using GitHub. The importance of file endings came into play as I realized that marked down files can, indeed, be created simply by adding the .md ending to an edited file. I was surprised to understand how effective the use of terminal combined with GitHub was in developing actual webpages. Much remains unclear to me in regard to the course's content, but in good will I can claim having learnt something. Thanks for the course!
+I had my doubts about my capabilities on this week's assignments. Our having been introduced to GitHub led to the final assignment, a part of which this section obviously is, too; namely, creating a webpage using GitHub. The importance of file endings came into play as I realized that marked down files can, indeed, be created simply by adding the .md ending to an edited file. I was surprised to understand how effective the use of terminal combined with GitHub was in developing actual webpages. The use of Jekyll, which is a static site generator turned out to be fairly simple even though I was compelled to e.g. install several other programs (like Nokogiri) separately to get things going. Much remains unclear to me in regard to the course's content, but in good will I can claim having learnt something. Thanks for the course!
 
 ## Difficulty (from 1 to 10) of each week's assignments
 
