@@ -31,10 +31,22 @@ Installation of programs on bash is what the week's materials were about. Whilst
 
 ## Week 6
 
+The content of week 6 revolved around version control as its title indicates. It was a straightforward concept to me; when editing a file, a script or another text/code entity one is able via GitHub to separate branches of working stages (of a project) between which one can decide to progress differently. This way unwished editing can be reversed easily and/or retrieved upon request. Enjoyable I dare say!
+
 ## Week 7
+
+I had my doubts about my capabilities on this week's assignments. Our having been introduced to GitHub led to the final assignment, a part of which this section obviously is, too; namely, creating a webpage using GitHub. The importance of file endings came into play as I realized that marked down files can, indeed, be created simply by adding the .md ending to an edited file. I was surprised to understand how effective the use of terminal combined with GitHub was in developing actual webpages. Much remains unclear to me in regard to the course's content, but in good will I can claim having learnt something. Thanks for the course!
 
 ## Difficulty (from 1 to 10) of each week's assignments
 
 | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |   3    |    2   |    8   |   10   |    7   |    5   |
+
+## Some of the skills acquired
+
+* Reconfiguring commands through .bashrc
+
+* Using nano to alter functions of a simple script
+
+* Understanding of file endings 
