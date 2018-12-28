@@ -39,9 +39,9 @@ I had my doubts about my capabilities on this week's assignments. Our having bee
 
 ## Difficulty (from 1 to 10) of each week's assignments
 
-| Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-|   3    |    2   |    8   |   10   |    7   |    5   |
+| Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|   3    |    2   |    8   |   10   |    7   |    5   |    3   |
 
 ## Some of the skills acquired
 
